@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hoang/static/css/main.073c9b0a.css",
+    "main.js": "/hoang/static/js/main.2533185d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hoang/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/hoang/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hoang/index.html",
+    "main.073c9b0a.css.map": "/hoang/static/css/main.073c9b0a.css.map",
+    "main.2533185d.js.map": "/hoang/static/js/main.2533185d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hoang/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2533185d.js"
+  ]
+}
